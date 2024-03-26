@@ -1,0 +1,62 @@
+
+fish_905.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+29_lianhuanzhatanxie_body
+  rotate: false
+  xy: 2, 13
+  size: 126, 107
+  orig: 126, 107
+  offset: 0, 0
+  index: -1
+29_lianhuanzhatanxie_bomb1
+  rotate: false
+  xy: 198, 159
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+29_lianhuanzhatanxie_bomb2
+  rotate: false
+  xy: 198, 205
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+29_lianhuanzhatanxie_bomb3
+  rotate: true
+  xy: 132, 139
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+29_lianhuanzhatanxie_eye
+  rotate: true
+  xy: 197, 120
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+29_lianhuanzhatanxie_fin
+  rotate: true
+  xy: 132, 119
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 132, 186
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+flares_glow
+  rotate: false
+  xy: 2, 122
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

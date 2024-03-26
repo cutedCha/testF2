@@ -1,0 +1,48 @@
+
+fish_606.png
+size: 634,632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+24_renyu_01
+  rotate: false
+  xy: 0, 265
+  size: 251, 91
+  orig: 251, 91
+  offset: 0, 0
+  index: -1
+24_renyu_02
+  rotate: false
+  xy: 481, 375
+  size: 84, 102
+  orig: 84, 102
+  offset: 0, 0
+  index: -1
+24_renyu_03
+  rotate: false
+  xy: 0, 358
+  size: 255, 119
+  orig: 255, 119
+  offset: 0, 0
+  index: -1
+24_renyu_04
+  rotate: false
+  xy: 0, 479
+  size: 634, 153
+  orig: 634, 153
+  offset: 0, 0
+  index: -1
+24_renyu_05
+  rotate: false
+  xy: 257, 365
+  size: 222, 112
+  orig: 222, 112
+  offset: 0, 0
+  index: -1
+24_renyu_06
+  rotate: false
+  xy: 0, 186
+  size: 115, 77
+  orig: 115, 77
+  offset: 0, 0
+  index: -1

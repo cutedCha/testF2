@@ -1,0 +1,41 @@
+
+fish_304.png
+size: 172,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12_shiziyu_orange_eye
+  rotate: false
+  xy: 94, 150
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+12_shiziyu_orange_eyelipdown
+  rotate: false
+  xy: 2, 2
+  size: 17, 8
+  orig: 19, 8
+  offset: 1, 0
+  index: -1
+12_shiziyu_orange_eyelipup
+  rotate: false
+  xy: 94, 160
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+12_shiziyu_orange_mainbody
+  rotate: false
+  xy: 2, 86
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+12_shiziyu_orange_sidefin
+  rotate: true
+  xy: 2, 12
+  size: 72, 91
+  orig: 72, 91
+  offset: 0, 0
+  index: -1

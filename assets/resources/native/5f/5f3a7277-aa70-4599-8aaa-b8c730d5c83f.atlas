@@ -1,0 +1,48 @@
+
+fish_302.png
+size: 147,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_haigui_1
+  rotate: false
+  xy: 2, 86
+  size: 103, 57
+  orig: 103, 57
+  offset: 0, 0
+  index: -1
+10_haigui_2
+  rotate: true
+  xy: 107, 54
+  size: 89, 38
+  orig: 89, 38
+  offset: 0, 0
+  index: -1
+10_haigui_3
+  rotate: false
+  xy: 2, 29
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+10_haigui_4
+  rotate: false
+  xy: 2, 8
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+10_haigui_5
+  rotate: false
+  xy: 92, 75
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+10_haigui_6
+  rotate: false
+  xy: 23, 12
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1

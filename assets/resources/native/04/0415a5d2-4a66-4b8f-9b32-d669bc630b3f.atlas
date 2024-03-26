@@ -1,0 +1,34 @@
+
+fish_402.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+14_bianfuyu_00
+  rotate: false
+  xy: 2, 21
+  size: 150, 84
+  orig: 150, 84
+  offset: 0, 0
+  index: -1
+14_bianfuyu_01
+  rotate: false
+  xy: 2, 4
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+14_bianfuyu_02
+  rotate: false
+  xy: 231, 96
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+14_bianfuyu_03
+  rotate: true
+  xy: 154, 2
+  size: 103, 75
+  orig: 103, 75
+  offset: 0, 0
+  index: -1

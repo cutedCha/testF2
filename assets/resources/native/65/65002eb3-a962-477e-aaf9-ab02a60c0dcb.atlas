@@ -1,0 +1,27 @@
+
+fish_401.png
+size: 454,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+13_caiweijin_00
+  rotate: false
+  xy: 2, 258
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+13_caiweijin_01
+  rotate: false
+  xy: 2, 64
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+13_caiweijin_02
+  rotate: true
+  xy: 260, 194
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
